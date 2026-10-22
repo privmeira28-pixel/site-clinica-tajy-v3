@@ -1,0 +1,32 @@
+SITE CLÍNICA TAJY · O QUE FALTA PREENCHER
+==========================================
+
+Tudo que está entre [colchetes] no index.html é espaço reservado. Troque pelo texto real.
+
+1. DENTISTA (seção "Quem cuida do seu sorriso" e rodapé)
+   - [Dr(a). Nome Sobrenome] → aparece 2 vezes (seção e rodapé, como responsável técnico)
+   - Frase de apresentação, formação, cursos e anos de experiência
+   - Foto: salve como img/dentista.jpg (vertical, de preferência 4:5) e siga o
+     comentário no HTML para trocar o bloco "Foto do(a) dentista" pela imagem.
+   - Confirme se o CRO 147011 é mesmo do Conselho de SP (CRO-SP).
+
+2. DEPOIMENTOS
+   - 3 depoimentos REAIS, com autorização do paciente (Google ou Instagram).
+   - Troque também a letra do avatar (A, B, C) pela inicial do nome.
+   - Antes de publicar, confirme com o(a) dentista se a forma de divulgar segue as regras do CFO.
+
+3. HORÁRIO (seção "Onde estamos")
+   - [Seg a sex, 9h às 19h · Sáb, 9h às 13h] é só um exemplo; coloque o horário real.
+
+4. MAIS CASOS NA GALERIA
+   - Coloque as fotos em img/ (ex.: caso-3.jpg) e copie o bloco modelo que está
+     comentado dentro da galeria no HTML.
+
+5. WHATSAPP COM MENSAGEM PRONTA (opcional, recomendado)
+   - Troque https://wa.me/message/VRIWQGUFKZEWB1 em todos os botões por:
+     https://wa.me/5511XXXXXXXXX?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20agendar%20minha%20avalia%C3%A7%C3%A3o
+     (55 + DDD + número, sem espaços ou traços)
+
+6. FAQ
+   - As respostas são genéricas e prudentes. Peça para o(a) dentista revisar,
+     principalmente "Quanto tempo duram" e "Quanto custa" (dá para citar parcelamento).
